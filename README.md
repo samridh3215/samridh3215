@@ -1,7 +1,7 @@
 
 
 <h1> Welcome to my GitHub! </h1>
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/samridh3215?theme=nord&font=Russo%20One&ext=activity)
 <!--
 **samridh3215/samridh3215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
