@@ -34,4 +34,4 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/samridh3215?theme=dark&font=Russo%20One&ext=heatmap)
 
 ## Try Hack Me
-<script src="https://tryhackme.com/badge/2542789"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/samridh3215.png" alt="TryHackMe">
